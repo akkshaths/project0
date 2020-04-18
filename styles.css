@@ -8,7 +8,8 @@
 }
 #bodytext {
     border: 3px solid blue;
-    padding: 30px;
+    padding: 20px;
+    margin: 30px;
 }
 #headtext {
     text-align: center;
