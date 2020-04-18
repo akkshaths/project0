@@ -12,8 +12,7 @@
 }
 #headtext {
     text-align: center;
-    height: 200px;
-    width: 100px;
+    Border: height = 200px, width = 100%;
     background-color: aqua;
 
 }
